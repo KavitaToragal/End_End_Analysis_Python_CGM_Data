@@ -1,0 +1,2 @@
+# Team6_InsightHunters_PyhtonHackathon_August2025
+Deriving Insights from Diabetes Dataset
